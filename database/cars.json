@@ -1,0 +1,23 @@
+[
+    {
+        "id": "4eca02de-72da-4816-9855-645f3325a3bd",
+        "name": "A4",
+        "releaseYear": true,
+        "available": true,
+        "gasAvailable": 2023
+    },
+    {
+        "id": "1f5a25c5-6d4d-4408-a5d6-289bdd4c99f9",
+        "name": "Land Cruiser",
+        "releaseYear": true,
+        "available": true,
+        "gasAvailable": 2023
+    },
+    {
+        "id": "ea26b45d-3604-444d-800f-7818f356062c",
+        "name": "Grand Caravan",
+        "releaseYear": true,
+        "available": true,
+        "gasAvailable": 2023
+    }
+]
